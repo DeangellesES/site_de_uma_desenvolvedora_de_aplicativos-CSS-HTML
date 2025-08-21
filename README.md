@@ -26,7 +26,7 @@
   <li>CSS organizado em varios arquivos CSS</li>
   <li>HTML semântico e bem estruturado</li>
   <li>Responsivo para todas as telas</li>
-  <li>uso das tags figure, figcaption, address, video e article<li>
+  <li>uso das tags figure, figcaption, address, video e article</li>
   <li>flex box css</li>
   <li>:root utilizado para criação de variáveis CSS</li>
   <li>reset CSS utilizado</li>
